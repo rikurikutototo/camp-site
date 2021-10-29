@@ -446,7 +446,7 @@ address {
 .hero-sub {
   width: 100%;
   height: 450px;
-  background-image: url(/img/news-page.png);
+  background-image: url(./news-page.png);
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -477,26 +477,26 @@ address {
 }
 
 .hero-sub--news {
-  background-image: url(/img/new-page.jpg);
+  background-image: url(./new-page.jpg);
 }
 
 .hero-sub--cabin {
-  background-image: url(/img/service-cabin.png);
+  background-image: url(./service-cabin.png);
   background-position: 50%;
 }
 
 .hero-sub--camp {
-  background-image: url(/img/service-camp.png);
+  background-image: url(./service-camp.png);
   background-position: bottom;
 }
 
 .hero-sub--access {
-  background-image: url(/img/access-page.jpg);
+  background-image: url(./access-page.jpg);
   background-position: bottom;
 }
 
 .hero-sub--fee {
-  background-image: url(/img/fee-page.jpg);
+  background-image: url(./fee-page.jpg);
   background-position: bottom;
 }
 
@@ -716,7 +716,7 @@ address {
           align-items: center;
   width: 100%;
   height: 100vh;
-  background-image: url(../../img/hero-image.png);
+  background-image: url(./hero-image.png);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -939,11 +939,11 @@ address {
 }
 
 .service__item-bg--cabin {
-  background-image: url(/img/service-cabin.png);
+  background-image: url(./service-cabin.png);
 }
 
 .service__item-bg--camp {
-  background-image: url(/img/service-camp.png);
+  background-image: url(./service-camp.png);
 }
 
 .service__item-description {
@@ -1043,7 +1043,7 @@ address {
 }
 
 .image {
-  background-image: url(/img/bobbbq1195P2200296_TP_V.jpg);
+  background-image: url(./bobbbq1195P2200296_TP_V.jpg);
   background-size: cover;
   background-attachment: fixed;
   width: 100%;
